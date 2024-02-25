@@ -53,7 +53,7 @@ const char* root_ca=
 //const String AccessToken = "";
 
 // It is also possible to use "API Key" instead of "Access Token". It doesn't have time limit.
-const String ApiKey = "AIzaSyB0vU_p3d1V2II5NWckgkx2PGisHPblhpc";
+const String ApiKey = "api_google_cloud";
 //const char* chatgpt_token = "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"; // OpenAI API Key
 //String OpenAI_Model = "gpt-3.5-turbo-instruct"; // Model
 //String OpenAI_Temperature = "0.5"; // temperature
