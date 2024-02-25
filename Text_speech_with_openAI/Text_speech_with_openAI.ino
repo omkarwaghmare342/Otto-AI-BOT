@@ -8,11 +8,11 @@
 
 
 
-const char* chatgpt_token = "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";
+const char* chatgpt_token = "yourToken";
 String ans="";
 String Start = "Omi is ready to assist you ,Please Ask!";
-const char *apiKey = "5IT8F9SJJDLITE7I";
-const unsigned long channelNumber = 2435504;
+const char *apiKey = "thingspeakApi";
+const unsigned long channelNumber = channel id;
 WiFiClient client;
 Servo myservoL;
 Servo myservoR;
